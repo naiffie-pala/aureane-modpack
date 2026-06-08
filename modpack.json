@@ -3,37 +3,37 @@
   "mods": [
     {
       "name": "EnhancedTooltips-1.9.1+neoforge.1.21.8.jar",
-      "url": "https://github.com/TON_USERNAME/aureane-modpack/releases/download/v1.0.0/EnhancedTooltips-1.9.1+neoforge.1.21.8.jar",
+      "url": "https://github.com/naiffie-pala/aureane-modpack/releases/download/v1.0.0/EnhancedTooltips-1.9.1+neoforge.1.21.8.jar",
       "sha256": "6844275bc713eec8d214c24ab6cdbc0b8d21377fd51b3ed1029f4a21798caf89",
       "required": true
     },
     {
       "name": "faction_aureane-1.0.0-neoforge-1.21.8.jar",
-      "url": "https://github.com/TON_USERNAME/aureane-modpack/releases/download/v1.0.0/faction_aureane-1.0.0-neoforge-1.21.8.jar",
+      "url": "https://github.com/naiffie-pala/aureane-modpack/releases/download/v1.0.0/faction_aureane-1.0.0-neoforge-1.21.8.jar",
       "sha256": "8e0a20d64885b2d6b0387a5524606725897db47ab300da4429feed6eb4cdd332",
       "required": true
     },
     {
       "name": "jei-1.21.8-neoforge-24.2.0.6.jar",
-      "url": "https://github.com/TON_USERNAME/aureane-modpack/releases/download/v1.0.0/jei-1.21.8-neoforge-24.2.0.6.jar",
+      "url": "https://github.com/naiffie-pala/aureane-modpack/releases/download/v1.0.0/jei-1.21.8-neoforge-24.2.0.6.jar",
       "sha256": "2a9e71600cbe1bffb947b2b949ff3de99e9b818109ee5b15e5f04315ada19958",
       "required": true
     },
     {
       "name": "lambdynamiclights-4.8.7+1.21.8.jar",
-      "url": "https://github.com/TON_USERNAME/aureane-modpack/releases/download/v1.0.0/lambdynamiclights-4.8.7+1.21.8.jar",
+      "url": "https://github.com/naiffie-pala/aureane-modpack/releases/download/v1.0.0/lambdynamiclights-4.8.7+1.21.8.jar",
       "sha256": "471bf056f389d7315fdf0b9e10bc4398a13652f5e8bb4ba309189a55cdb87ee5",
       "required": true
     },
     {
       "name": "StorageDrawers-neoforge-1.21.8-18.3.2.jar",
-      "url": "https://github.com/TON_USERNAME/aureane-modpack/releases/download/v1.0.0/StorageDrawers-neoforge-1.21.8-18.3.2.jar",
-      "sha256": "2cb727b47c82c1f3933d0c29bcef09b9e2bbfadf41da55BCE149e6fc12d7a878",
+      "url": "https://github.com/naiffie-pala/aureane-modpack/releases/download/v1.0.0/StorageDrawers-neoforge-1.21.8-18.3.2.jar",
+      "sha256": "2cb727b47c82c1f3933d0c29bcef09b9e2bbfadf41da55bce149e6fc12d7a878",
       "required": true
     },
     {
       "name": "yet_another_config_lib_v3-3.8.2+1.21.6-neoforge.jar",
-      "url": "https://github.com/TON_USERNAME/aureane-modpack/releases/download/v1.0.0/yet_another_config_lib_v3-3.8.2+1.21.6-neoforge.jar",
+      "url": "https://github.com/naiffie-pala/aureane-modpack/releases/download/v1.0.0/yet_another_config_lib_v3-3.8.2+1.21.6-neoforge.jar",
       "sha256": "e47a118b64fbd8a0aab4b07326cf8dbe1d81aff91c12706e5ca929e397833949",
       "required": true
     }
