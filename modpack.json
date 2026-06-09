@@ -42,6 +42,12 @@
       "url": "https://github.com/naiffie-pala/aureane-modpack/releases/download/v1.0.1/yet_another_config_lib_v3-3.8.2+1.21.6-neoforge.jar",
       "sha256": "e47a118b64fbd8a0aab4b07326cf8dbe1d81aff91c12706e5ca929e397833949",
       "required": true
+    },
+    {
+      "name": "Quick Skin - NeoForge - 1.21.8-2.6.2.4.jar",
+      "url": "https://github.com/naiffie-pala/aureane-modpack/releases/download/v1.0.1/Quick Skin - NeoForge - 1.21.8-2.6.2.4.jar",
+      "sha256": "73b1fc65e2eee336c76b9feeceb997b3080e102e6042073a03b7c87a1cb90fcb",
+      "required": true
     }
   ]
 }
