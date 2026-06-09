@@ -2,7 +2,7 @@
   "version": "1.0.1",
   "mods": [
     {
-      "name": "architectury-17.0.8-neoforge.jar",
+      "name": "architectury-17.0.8-neoforge.1.jar",
       "url": "https://github.com/naiffie-pala/aureane-modpack/releases/download/v1.0.1/architectury-17.0.8-neoforge.jar",
       "sha256": "98ad15b0710a22f4e1874bf7b5eb9dd633ee530bd0e0b16d33504dc669830ebc",
       "required": true
