@@ -56,10 +56,10 @@
       "required": true
     },
     {
-  "name": "pluginaureane-1.0.0-neoforge-1.21.8.jar",
-  "url": "https://github.com/naiffie-pala/aureane-modpack/releases/download/v1.0.1/pluginaureane-1.0.0-neoforge-1.21.8.jar",
-  "sha256": "a81cf53539882f5845bdb520151b4465008d8b5ec1ea9d50012771d21c369b21",
-  "required": true
+      "name": "pluginaureane-1.0.0-neoforge-1.21.8.jar",
+      "url": "https://github.com/naiffie-pala/aureane-modpack/releases/download/v1.0.1/pluginaureane-1.0.0-neoforge-1.21.8.jar",
+      "sha256": "a81cf53539882f5845bdb520151b4465008d8b5ec1ea9d50012771d21c369b21",
+      "required": true
     }
   ]
 }
