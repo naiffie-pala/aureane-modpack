@@ -54,12 +54,6 @@
       "url": "https://github.com/naiffie-pala/aureane-modpack/releases/download/v1.0.1/yet_another_config_lib_v3-3.8.2+1.21.6-neoforge.jar",
       "sha256": "e47a118b64fbd8a0aab4b07326cf8dbe1d81aff91c12706e5ca929e397833949",
       "required": true
-    },
-    {
-      "name": "pluginaureane-1.0.0-neoforge-1.21.8.jar",
-      "url": "https://github.com/naiffie-pala/aureane-modpack/releases/download/v1.0.1/pluginaureane-1.0.0-neoforge-1.21.8.jar",
-      "sha256": "fdfcf3102aa085b8e062655d812e69ee15bd9856dd715971eb6676f8abb7a423",
-      "required": true
     }
   ]
 }
