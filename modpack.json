@@ -38,6 +38,18 @@
       "required": true
     },
     {
+      "name": "outilstaffaureane-1.0.0-neoforge-1.21.8.jar",
+      "url": "https://github.com/naiffie-pala/aureane-modpack/releases/download/v1.0.1/outilstaffaureane-1.0.0-neoforge-1.21.8.jar",
+      "sha256": "ce4883a3d7a234831a59b2eae7c245322cbada736445b4c628292194e2b4aaa6",
+      "required": true
+    },
+    {
+      "name": "pluginaureane-1.0.0-neoforge-1.21.8.jar",
+      "url": "https://github.com/naiffie-pala/aureane-modpack/releases/download/v1.0.1/pluginaureane-1.0.0-neoforge-1.21.8.jar",
+      "sha256": "5cb7f86d8b1be78dad54390ce33de8fae7bfbd9905f8eaf1879361f0bd5ec2eb",
+      "required": true
+    },
+    {
       "name": "Quick Skin - NeoForge - 1.21.8-2.6.2.4.jar",
       "url": "https://github.com/naiffie-pala/aureane-modpack/releases/download/v1.0.1/Quick%20Skin%20-%20NeoForge%20-%201.21.8-2.6.2.4.jar",
       "sha256": "73b1fc65e2eee336c76b9feeceb997b3080e102e6042073a03b7c87a1cb90fcb",
@@ -53,12 +65,6 @@
       "name": "yet_another_config_lib_v3-3.8.2+1.21.6-neoforge.jar",
       "url": "https://github.com/naiffie-pala/aureane-modpack/releases/download/v1.0.1/yet_another_config_lib_v3-3.8.2+1.21.6-neoforge.jar",
       "sha256": "e47a118b64fbd8a0aab4b07326cf8dbe1d81aff91c12706e5ca929e397833949",
-      "required": true
-    },
-    {
-      "name": "pluginaureane-1.0.0-neoforge-1.21.8.jar",
-      "url": "https://github.com/naiffie-pala/aureane-modpack/releases/download/v1.0.1/pluginaureane-1.0.0-neoforge-1.21.8.jar",
-      "sha256": "fdfcf3102aa085b8e062655d812e69ee15bd9856dd715971eb6676f8abb7a423",
       "required": true
     }
   ]
