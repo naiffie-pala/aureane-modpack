@@ -22,7 +22,7 @@
     {
       "name": "faction_aureane-1.0.0-neoforge-1.21.8.jar",
       "url": "https://github.com/naiffie-pala/aureane-modpack/releases/download/v1.0.1/faction_aureane-1.0.0-neoforge-1.21.8.jar",
-      "sha256": "8e0a20d64885b2d6b0387a5524606725897db47ab300da4429feed6eb4cdd332",
+      "sha256": "8e0a20d64885b2d6b0387a5524606725897db47ab300da4429feede6eb4cdd332",
       "required": true
     },
     {
